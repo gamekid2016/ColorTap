@@ -64,7 +64,7 @@ jobs:
             <string>manual</string>
             <key>provisioningProfiles</key>
             <dict>
-              <key>com.colortap.app</key>
+              <key>app.asparagus3978.jasper204</key>
               <string>${{ secrets.PROVISIONING_PROFILE_NAME }}</string>
             </dict>
           </dict>
